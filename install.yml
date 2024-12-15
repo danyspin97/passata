@@ -1,0 +1,6 @@
+rinstall: 0.2.0
+pkgs:
+  passata:
+    type: rust
+    exe:
+      - passata
